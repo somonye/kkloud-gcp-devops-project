@@ -1,1 +1,4 @@
-# This is a ReadMe for my gcp-project in KodeKloud always!!!
+# Docker Flask Application
+
+- This app is written in Python. 
+- It will be deployed in GKE
